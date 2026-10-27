@@ -1,6 +1,5 @@
 # MG3
 ## Devlog
-Write your Devlog here.
 
 ### Question 1
 
